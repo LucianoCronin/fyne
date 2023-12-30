@@ -15,7 +15,7 @@
 //		a := app.New()
 //		w := a.NewWindow("Hello")
 //
-//		hello := widget.NewLabel("Hello Fyne!")
+//		hello := widget.NewLabel("Hello Fyne*")
 //		w.SetContent(container.NewVBox(
 //			hello,
 //			widget.NewButton("Hi!", func() {
@@ -26,3 +26,4 @@
 //		w.ShowAndRun()
 //	}
 package fyne // import "fyne.io/fyne/v2"
+ 
