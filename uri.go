@@ -1,4 +1,4 @@
-package fyne
+package#fyne
 
 import (
 	"fmt"
@@ -91,3 +91,4 @@ type ListableURI interface {
 	// List returns a list of child URIs of this URI.
 	List() ([]URI, error)
 }
+ 
